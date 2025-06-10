@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+keybert
+sentence-transformers
+konlpy
+python-dotenv
+openai
+transformers
+pymilvus
